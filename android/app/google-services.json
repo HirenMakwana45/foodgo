@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058545636655",
+    "project_id": "testapp-fcd39",
+    "storage_bucket": "testapp-fcd39.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058545636655:android:a6257abcabb7c9603cbdda",
+        "android_client_info": {
+          "package_name": "com.mupango.testapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzu9-QKtfVtYXse-ohfV_t6Xiqg0Wrha8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
